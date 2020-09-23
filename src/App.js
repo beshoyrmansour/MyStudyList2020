@@ -9,12 +9,12 @@ function App() {
     <Container>
       <Row>
         <Col>
-          <h1 className="text-center display-1">My Study List</h1>
+          <h1 className="text-center display-4 my-3">My Study List</h1>
         </Col>
         <Col className="mt-3" xs="12">
           <AddNewCourse />
         </Col>
-        <Col className="mt-3" xs="12">
+        <Col className="mt-5" xs="12">
           <MyCoursesList />
         </Col>
       </Row>
