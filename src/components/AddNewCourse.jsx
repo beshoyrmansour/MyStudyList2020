@@ -28,7 +28,7 @@ function AddNewCourse() {
           </Col>
           <Col md={5}>
             <FormGroup className="m-0">
-              <Label for="exampleDate">Date</Label>
+              <Label for="exampleDate">Due Date</Label>
               <Input
                 type="date"
                 name="date"
